@@ -4,6 +4,8 @@ This code was generated in the linked YouTube video about making a basic MCP Con
 Write Your Own MCP Connetor in Under 50 Lines:
 https://youtu.be/MfQx2uX6iCU
 
+Also check the follow-on video where we add auth keys to our MCP server:
+https://youtu.be/sEkD8_ZKUKE
 
 ## About
 <a href="https://www.ohioiot.com"><img src="https://www.ohioiot.com/logo_150.jpg" width="40" ></a>
