@@ -1,4 +1,4 @@
-# Basic MCP
+# Basic MCP<a href="https://www.ohioiot.com"><img src="https://www.ohioiot.com/logo_150.jpg" width="40" ></a>
 #### [(back to Organization Page)](https://github.com/OhioIoT-MCP)
 
 This code was generated in the linked YouTube video about making a basic MCP Connector to connect your application to AI.  By only adding two files to a conventional NodeJS app, we can turn our express server into an MCP server that can serve data directly to Claude.  See more at:
