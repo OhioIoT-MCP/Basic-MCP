@@ -5,7 +5,7 @@ This code was generated in the YouTube video [Write Your Own MCP Connetor in Und
 
 The MCP server itself is found in `mcp.js`.  This is analogous to the standard server route, except it is configured to work with AI (see the [MCP docs](https://modelcontextprotocol.io/docs/2026-07-28/getting-started/intro)).  In `tools.js`, we lay out the different 'routes' that are available to the engaged AI client.  This can be likened to a standard API route, wrapped with its own documentation.
 
-You can also check out the follow-on video, where we add auth keys to our MCP server: [Are Your MCP Servers Exposed?](https://youtu.be/kI4rFemShu0)
+To add basic authentication to your MCP server, check out the follow-on YouTube video [Are Your MCP Servers Exposed?](https://youtu.be/kI4rFemShu0) and its corresponding Git repo [Basic MCP Auth](https://github.com/OhioIoT-MCP/Basic-MCP-Auth).
 
 ## About
 <a href="https://www.ohioiot.com"><img src="https://www.ohioiot.com/logo_150.jpg" width="40" ></a>
